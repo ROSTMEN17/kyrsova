@@ -1,0 +1,36 @@
+D:\games\mygames\saper\saper\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\games\mygames\saper\saper\obj\x86\Debug\saper.Properties.Resources.resources
+D:\games\mygames\saper\saper\obj\x86\Debug\saper.Form1.resources
+D:\games\mygames\saper\saper\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\games\mygames\saper\saper\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\games\mygames\saper\saper\bin\Debug\saper.exe
+D:\games\mygames\saper\saper\bin\Debug\saper.pdb
+D:\games\mygames\saper\saper\obj\x86\Debug\saper.exe
+D:\games\mygames\saper\saper\obj\x86\Debug\saper.pdb
+C:\Users\Admin\Desktop\Saper-master\saper\bin\Debug\saper.exe
+C:\Users\Admin\Desktop\Saper-master\saper\bin\Debug\saper.pdb
+C:\Users\Admin\Desktop\Saper-master\saper\obj\x86\Debug\saper.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Saper-master\saper\obj\x86\Debug\saper.Properties.Resources.resources
+C:\Users\Admin\Desktop\Saper-master\saper\obj\x86\Debug\saper.Form1.resources
+C:\Users\Admin\Desktop\Saper-master\saper\obj\x86\Debug\saper.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Saper-master\saper\obj\x86\Debug\saper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Saper-master\saper\obj\x86\Debug\saper.exe
+C:\Users\Admin\Desktop\Saper-master\saper\obj\x86\Debug\saper.pdb
+C:\Users\Admin\Desktop\Курсова C#\Сапери\Saper-master\saper\bin\Debug\saper.exe
+C:\Users\Admin\Desktop\Курсова C#\Сапери\Saper-master\saper\bin\Debug\saper.pdb
+C:\Users\Admin\Desktop\Курсова C#\Сапери\Saper-master\saper\obj\x86\Debug\saper.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Курсова C#\Сапери\Saper-master\saper\obj\x86\Debug\saper.Properties.Resources.resources
+C:\Users\Admin\Desktop\Курсова C#\Сапери\Saper-master\saper\obj\x86\Debug\saper.Form1.resources
+C:\Users\Admin\Desktop\Курсова C#\Сапери\Saper-master\saper\obj\x86\Debug\saper.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Курсова C#\Сапери\Saper-master\saper\obj\x86\Debug\saper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Курсова C#\Сапери\Saper-master\saper\obj\x86\Debug\saper.exe
+C:\Users\Admin\Desktop\Курсова C#\Сапери\Saper-master\saper\obj\x86\Debug\saper.pdb
+C:\Users\Admin\Desktop\Курсова C#\Saper-master\saper\bin\Debug\saper.exe
+C:\Users\Admin\Desktop\Курсова C#\Saper-master\saper\bin\Debug\saper.pdb
+C:\Users\Admin\Desktop\Курсова C#\Saper-master\saper\obj\x86\Debug\saper.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Курсова C#\Saper-master\saper\obj\x86\Debug\saper.Properties.Resources.resources
+C:\Users\Admin\Desktop\Курсова C#\Saper-master\saper\obj\x86\Debug\saper.Form1.resources
+C:\Users\Admin\Desktop\Курсова C#\Saper-master\saper\obj\x86\Debug\saper.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Курсова C#\Saper-master\saper\obj\x86\Debug\saper.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Курсова C#\Saper-master\saper\obj\x86\Debug\saper.exe
+C:\Users\Admin\Desktop\Курсова C#\Saper-master\saper\obj\x86\Debug\saper.pdb
